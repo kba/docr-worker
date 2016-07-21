@@ -1,0 +1,23 @@
+{
+  "name": "docr-worker",
+  "version": "1.0.0",
+  "description": "dOCR worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kba/docr-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kba/docr-worker/issues"
+  },
+  "homepage": "https://github.com/kba/docr-worker#readme",
+  "dependencies": {
+    "easylog": "0.0.12",
+    "express": "^4.14.0"
+  }
+}
